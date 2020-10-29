@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{74:function(a){a.exports=JSON.parse('{"\u5bf9\u8c61":{"allTagsPath":"/tags","slug":"\u5bf9\u8c61","name":"\u5bf9\u8c61","count":1,"permalink":"/tags/\u5bf9\u8c61"},"javascript":{"allTagsPath":"/tags","slug":"javascript","name":"javascript","count":1,"permalink":"/tags/javascript"}}')}}]);
